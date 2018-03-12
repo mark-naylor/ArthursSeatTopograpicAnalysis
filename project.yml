@@ -1,8 +1,8 @@
 #### General information about the project    ####
 #### All this will be visible on DataCamp.com ####
-title          : "The title of the project. Max 41 characters."
+title          : "Topographic analysis of Arthur's Seat"
 description    : >
-  A short description of the project, Max 100 characters. 
+  In this project, you will load, plot and analyse some topographic data of Arthir's Seat 
 long_description: |
   A longer description of the project around 6 - 10 lines (where a line is 80 characters). Written in markdown.
   Should mention and link to prerequisite courses.
